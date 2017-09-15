@@ -1,11 +1,13 @@
-# [resume](http://www.jugetaozi.com/cv)
+# [resume](http://www.jugetaozi.com/resume/output/)
 
 可以按照下列方法clone到本地  然后在模板的基础上面修修改改就可以做出一份漂亮的简历啦~~
+----------
 需要注意的是  需要全局安装fis3哦
 ```
 npm install fis3 -g 
 ``` 
-
+如果您喜欢这个模板简历,欢迎star或者fork ~~~~~
+-----
 | This is to support the H5 resume on PC and mobile.
 
 ## Ues
