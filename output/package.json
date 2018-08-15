@@ -4,7 +4,10 @@
   "description": "lengziyu resume",
   "main": "fis-conf.js",
   "dependencies": {
-    "materialize-css": "^0.97.5"
+    "fis-parser-node-sass": "^1.0.3",
+    "fis3": "^3.4.39",
+    "fis3-hook-relative": "^1.0.7",
+    "node-sass": "^3.4.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -19,11 +22,5 @@
     "lengziyu"
   ],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "fis3": "^3.3.6",
-    "node-sass": "^3.4.2",
-    "fis3-hook-relative": "^1.0.7"
-  }
-
+  "license": "ISC"
 }
