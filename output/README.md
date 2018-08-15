@@ -41,3 +41,14 @@ Published to the specified directory
 ```sh
 $ fis3 release -d [directory]
 ```
+
+node 8.11.3
+npm  5.6.0
+
+
+npm未能加载Visual C++组件，解决办法win10
+
+以管理员身份运行：Windows PowerShell
+
+npm install --global --production windows-build-tools
+npm install -g node-gyp
